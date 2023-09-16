@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+First open terminal and then run code 
+###'npm install' 
+this will install required node js files.
 
 In the project directory, you can run:
 
