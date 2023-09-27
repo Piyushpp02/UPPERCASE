@@ -23,7 +23,7 @@ export default function TextForm(props) {
     setText(event.target.value);
   };
 
-  const [text, setText] = useState(" enter txt")
+  const [text, setText] = useState("")
 //   text=varible
 //   setText=value of that varaible we cannt directly chnage text we need to change value of settext
   return (
