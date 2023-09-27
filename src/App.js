@@ -7,9 +7,10 @@ import TextForm from './TextForm';
 function App() {
   return (
    <>
-   <Navbar title="Titlebar" home="home2"/>
+   {/* <Navbar title="Titlebar" home="home2"/><Navbar/>  */}
    <div className='container'>
-    <Navbar/> 
+     
+    
    <TextForm heading="Enter the text to convert upper case"/> 
   <About ></About> 
    </div>
