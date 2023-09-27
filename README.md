@@ -5,11 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 First open folder in vs code or visual studio and then run commmand "npm init" this will install node js modules.
-##"npm init" 
+
+##"npm init"
 
 
-
-In the project directory, you can run:
+after that you can run to run the project:
 
 ### `npm start`
 
