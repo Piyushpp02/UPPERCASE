@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Firstly open folder in vs code or visual studio and then run commmand "npm init" this will install node js modules.
+##"npm init"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
